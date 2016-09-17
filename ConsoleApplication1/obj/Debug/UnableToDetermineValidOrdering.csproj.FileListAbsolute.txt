@@ -1,0 +1,12 @@
+C:\github\UnableToDetermineValidOrdering\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\github\UnableToDetermineValidOrdering\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\github\UnableToDetermineValidOrdering\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\github\UnableToDetermineValidOrdering\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\github\UnableToDetermineValidOrdering\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\github\UnableToDetermineValidOrdering\ConsoleApplication1\bin\Debug\EntityFramework.dll
+C:\github\UnableToDetermineValidOrdering\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\github\UnableToDetermineValidOrdering\ConsoleApplication1\bin\Debug\EntityFramework.xml
+C:\github\UnableToDetermineValidOrdering\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\github\UnableToDetermineValidOrdering\ConsoleApplication1\obj\Debug\UnableToDetermineValidOrdering.csprojResolveAssemblyReference.cache
+C:\github\UnableToDetermineValidOrdering\ConsoleApplication1\obj\Debug\ConsoleApplication1.Migrations.Initial.resources
+C:\github\UnableToDetermineValidOrdering\ConsoleApplication1\obj\Debug\UnableToDetermineValidOrdering.csproj.GenerateResource.Cache

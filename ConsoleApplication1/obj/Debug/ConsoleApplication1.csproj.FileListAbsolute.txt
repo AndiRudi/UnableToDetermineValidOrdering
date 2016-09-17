@@ -1,0 +1,12 @@
+C:\github\pro-mvc\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\github\pro-mvc\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\github\pro-mvc\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\github\pro-mvc\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.dll
+C:\github\pro-mvc\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\github\pro-mvc\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.xml
+C:\github\pro-mvc\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\github\pro-mvc\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\github\pro-mvc\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\github\pro-mvc\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\github\pro-mvc\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Migrations.Initial.resources
+C:\github\pro-mvc\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
